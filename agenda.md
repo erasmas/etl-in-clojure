@@ -2,8 +2,8 @@
 
 ### Intro (ETL in Zoomdata)
 * About me
-* Show case, Customer X
-  - Questions our customer asks based on their data
+* Show case, *Customer X*
+  - Questions *Customer X* asks based on their data
   - They way we used to do ETL in Zoomdata and what was wrong with it
   - Current ETL Architecture
 
